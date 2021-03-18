@@ -8,4 +8,4 @@ Quick Links: [🔗 Personal Homepage](https://kelseygonzalez.github.io/), [🐦 
 
 To contact me, email 📫 at kelseygonzalez@email.arizona.edu
 
-![Metrics](https://github.com/kelseygonzalez/kelseygonzalez/raw/main/github-metrics.svg)
+![Metrics](https://github.com/kelseygonzalez/kelseygonzalez/raw/master/github-metrics.svg)
