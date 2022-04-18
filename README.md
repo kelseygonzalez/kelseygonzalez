@@ -2,7 +2,9 @@
 
 I am a data scientist, computational social scientist, and sociologist. 
 
-In my academic work, I studied social networks, health disparities, and identities using a variety of computational tools like network analysis, natural language processing, advanced statistical analysis, and machine learning. Currently, I am employed as data scientists at IBM. Becuase of this, you'll see less commits here on my personal open-source account lately. 
+I am a Senior Data Scientist at IBM's Chief Analytics Office, where I currently lend my skills to questions of People Analytics. Becuase of this, you'll see less commits here on my _personal_ open-source account. 
+
+In my academic work, I studied social networks, health disparities, and identities using a variety of computational tools like network analysis, natural language processing, advanced statistical analysis, and machine learning. 
 
 Quick Links: [🔗 Personal Homepage](https://kelseygonzalez.github.io/), [🐦 Twitter](https://twitter.com/KelseyEGonzalez), [🖧 LinkedIn](https://www.linkedin.com/in/kelseygonzalez/)
 
